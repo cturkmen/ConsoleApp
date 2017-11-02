@@ -1,0 +1,9 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrolUygulamalari\bin\Debug\AkisKontrolUygulamalari.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrolUygulamalari\bin\Debug\AkisKontrolUygulamalari.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.csprojResolveAssemblyReference.cache
+D:\program ile ilgili\grup 5\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.exe
+D:\program ile ilgili\grup 5\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.pdb
+E:\program ile ilgili\grup 5\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.exe
+E:\program ile ilgili\grup 5\ConsoleApp\AkisKontrolUygulamalari\obj\x86\Debug\AkisKontrolUygulamalari.pdb

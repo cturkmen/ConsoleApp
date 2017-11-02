@@ -1,0 +1,5 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Operatorler\obj\x86\Debug\Operatorler.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Operatorler\obj\x86\Debug\Operatorler.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Operatorler\obj\x86\Debug\Operatorler.csprojResolveAssemblyReference.cache

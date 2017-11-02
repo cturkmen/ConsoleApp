@@ -1,0 +1,5 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\StringKullanımı\bin\Debug\StringKullanımı.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\StringKullanımı\bin\Debug\StringKullanımı.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\StringKullanımı\obj\x86\Debug\StringKullanımı.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\StringKullanımı\obj\x86\Debug\StringKullanımı.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\StringKullanımı\obj\x86\Debug\StringKullanımı.csprojResolveAssemblyReference.cache

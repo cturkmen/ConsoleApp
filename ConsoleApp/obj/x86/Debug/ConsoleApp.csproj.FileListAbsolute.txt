@@ -1,0 +1,5 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb

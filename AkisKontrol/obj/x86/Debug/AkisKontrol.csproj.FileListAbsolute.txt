@@ -1,0 +1,5 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrol\bin\Debug\AkisKontrol.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrol\bin\Debug\AkisKontrol.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrol\obj\x86\Debug\AkisKontrol.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrol\obj\x86\Debug\AkisKontrol.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\AkisKontrol\obj\x86\Debug\AkisKontrol.csprojResolveAssemblyReference.cache

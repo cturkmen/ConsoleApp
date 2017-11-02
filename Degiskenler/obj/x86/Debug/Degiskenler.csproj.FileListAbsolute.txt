@@ -1,0 +1,4 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Degiskenler\obj\x86\Debug\Degiskenler.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\ConsoleApp\Degiskenler\obj\x86\Debug\Degiskenler.pdb
